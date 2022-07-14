@@ -1,8 +1,8 @@
 {
-    "name": "MiraiBypassD-Jukie",
-    "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "name": "G2B",
+    "version": "0.0.0.1 Beta",
+    "description": "JWolter",
+    "main": "g2b.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": ""
     },
-    "author": "D-Jukie",
+    "author": "JWolter",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
