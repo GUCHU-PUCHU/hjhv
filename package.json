@@ -27,6 +27,7 @@
         "eval": "",
         "extract-zip": "",
         "fb-chat-api": "",
+        "fca-disme": "git+https://github.com/dongdev06/fca-disme.git",
         "figlet": "",
         "fs-extra": "^10.0.0",
         "gifencoder": "^2.0.1",
